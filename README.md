@@ -1,5 +1,7 @@
 # Strategy Skills for Claude
 
+<img width="1693" height="929" alt="image" src="https://github.com/user-attachments/assets/d950a8f1-ec37-4282-8d3b-660f517e5b95" />
+
 **McKinsey-grade strategic thinking, codified into ten skills you can run on demand.**
 
 Most strategy work fails in the same places: a misdiagnosed starting point, a metric system that produces motion but not progress, a recommendation that gets killed in the room because no one aligned the swing votes first. These ten skills compress the methodology a senior management consultant would bring to those problems — Pyramid Principle, MECE issue trees, Porter's Five Forces, Theory of Constraints, pre-mortem logic, war-gaming — into structured workflows Claude can execute alongside you.
